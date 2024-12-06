@@ -1,0 +1,10 @@
+C:\web\image1\image1\bin\Debug\image1.exe.config
+C:\web\image1\image1\bin\Debug\image1.exe
+C:\web\image1\image1\bin\Debug\image1.pdb
+C:\web\image1\image1\obj\Debug\image1.csproj.AssemblyReference.cache
+C:\web\image1\image1\obj\Debug\image1.Form1.resources
+C:\web\image1\image1\obj\Debug\image1.Properties.Resources.resources
+C:\web\image1\image1\obj\Debug\image1.csproj.GenerateResource.cache
+C:\web\image1\image1\obj\Debug\image1.csproj.CoreCompileInputs.cache
+C:\web\image1\image1\obj\Debug\image1.exe
+C:\web\image1\image1\obj\Debug\image1.pdb
